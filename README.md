@@ -10,6 +10,8 @@ A multi-layered interactive dashboard for real-time crisis monitoring and intell
 [🚀 View Deployed App]
 https://crisis-intelligence-dashboard.onrender.com/
 
+![image](https://github.com/user-attachments/assets/490690c2-84e6-44ef-bc2b-3e7d60756d01)
+
 ---
 
 ## 📊 Features
